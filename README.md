@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xingluonapan2010, a junior high school student.
+- 👋 Hi, I’m @OverStar2010, a junior high school student.
 - 👀 I’m interested in programming, anime, sports, English and so on.
 - 🌱 I’m currently learning C++ Qt, C++ Win32, C++ console and HTML, CSS.
 - 💞️ I’m looking to collaborate on construction of my website https://www.xingluonapan2010.com.
